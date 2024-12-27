@@ -4,7 +4,7 @@ import express from "express"
 // Q2. What are the environments in js?
 import dotenv   from 'dotenv'
 
-// Q6. Cloud storage, their usage, what is Cloudinary?
+// Q4. Cloud storage, their usage, what is Cloudinary?
 import {v2 as cloudinary} from 'cloudinary'
 
 import authRoutes from './routes/auth.route.js'
