@@ -12,11 +12,8 @@ A full-stack Twitter clone built using modern web technologies. This project rep
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
 3. [Installation](#installation)
-4. [Project Structure](#project-structure)
-5. [API Documentation](#api-documentation)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+4. [API Documentation](#api-documentation)
+
 
 ---
 
